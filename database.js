@@ -2,21 +2,21 @@ const ARCHIVIO_MASTER = [
     {
         "code": "27511",
         "topic": "Comportamento",
-        "text": "Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre avvisare gli addetti alla manutenzione della strada",
+        "text": "Ma Quando sei Cretina :D ahahah Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre avvisare gli addetti alla manutenzione della strada",
         "ans": true,
         "img": ""
     },
     {
         "code": "27512",
         "topic": "Comportamento",
-        "text": "Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre avvisare del possibile pericolo gli altri utenti",
+        "text": "Carretto Battuto :D Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre avvisare del possibile pericolo gli altri utenti",
         "ans": true,
         "img": ""
     },
     {
         "code": "27513",
         "topic": "Comportamento",
-        "text": "Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre ridurre la velocità del veicolo che si conduce",
+        "text": "Capace che è talmente cretina che cade a piedi :D Se su una strada si nota la presenza di un cedimento del fondo stradale o un tombino scoperchiato, occorre ridurre la velocità del veicolo che si conduce",
         "ans": true,
         "img": ""
     },
